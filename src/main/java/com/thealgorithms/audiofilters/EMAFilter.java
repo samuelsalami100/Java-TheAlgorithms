@@ -8,8 +8,9 @@ package com.thealgorithms.audiofilters;
  * The smoothing factor (alpha) controls the degree of smoothing.
  *
  * <p>Based on the definition from
- * <a href="https://en.wikipedia.org/wiki/Moving_average">Wikipedia link</a>.
- */
+ * <a href="https://en.wikipedia.org/wiki/Moving_average">Wikipedia link</a>.    
+    LO CAMBIE YO
+ */ 
 public class EMAFilter {
     private final double alpha;
     private double emaValue;
